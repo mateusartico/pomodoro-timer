@@ -5,9 +5,12 @@ Welcome to the Pomodoro Timer with Pygame GUI project! This Python-based project
 The Pomodoro technique is a time management method that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks. This timer follows that principle, allowing users to focus on tasks with structured breaks for improved productivity.
 
 ## How to Use
-Clone the repository to your local machine.
-Make sure you have Python installed.
-Run the main Python script.
+1. Clone the repository to your local machine.
+2. Make sure you have Python installed.
+3. Run the main Python script.
+4. Click the "Start" button to start the timer.
+5. Click the "Pause" button to pause the timer.
+6. Click the "Reset" button to restart the timer.
 ## Features
 - Customizable timer intervals for both work and break sessions.
 - Visual cues and notifications to signify the start and end of each session.
