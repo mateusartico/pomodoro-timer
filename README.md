@@ -9,9 +9,9 @@ Clone the repository to your local machine.
 Make sure you have Python installed.
 Run the main Python script.
 ## Features
-Customizable timer intervals for both work and break sessions.
-Visual cues and notifications to signify the start and end of each session.
-Pause and resume functionality for flexibility during work sessions.
+- Customizable timer intervals for both work and break sessions.
+- Visual cues and notifications to signify the start and end of each session.
+- Pause and resume functionality for flexibility during work sessions.
 ## Why Pomodoro Timer with Pygame GUI?
 While there are numerous Pomodoro timer applications available, this project offers a lightweight and customizable solution in Python, making it accessible for developers to modify and extend according to their preferences. The integration of a pygame graphical interface adds a visually appealing element to the timer, enhancing user experience and engagement during work sessions.
 
